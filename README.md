@@ -1,4 +1,4 @@
-Meu nome é Cleyton Pinheiro, do Brasil (🇧🇷). (https://juntossomosmais.com.br).
+Meu nome é Cleyton Pinheiro, do Brasil (🇧🇷). 
 
 No meu tempo livre, gosto de ouvir música (🎵) e eventualmente gosto de filosofar sobre vida com uma cerveja (🍺).
 
