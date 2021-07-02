@@ -12,7 +12,7 @@ No meu tempo livre gosto (:hearts:) de 'codar'/estudar programação (:computer:
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="space-betwen" margin="100px" src="https://github-readme-stats.vercel.app/api?username=CleytonPinheiro&show_icons=true&theme=blue-green" />
+  <img align="space-betwen" max-width="50vh" src="https://github-readme-stats.vercel.app/api?username=CleytonPinheiro&show_icons=true&theme=blue-green" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="space-betwen" height="193" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleytonPinheiro&layout=compact" />
