@@ -1,5 +1,10 @@
 ### Hello 👋
-Sou Cleyton Pinheiro, brasileiro (🇧🇷).
+
+Sou um desenvolvedor de software altamente motivado e apaixonado por transformar ideias em soluções funcionais. Meu nome é Cleyton Pinheiro e tenho uma sólida formação em ciência da computação, com anos de experiência na área de desenvolvimento de software.
+
+Minha jornada como desenvolvedor começou desde cedo, e ao longo dos anos, acumulei conhecimentos abrangentes em várias tecnologias e linguagens de programação. Minha experiência inclui trabalhar em projetos diversos, desde aplicações web até soluções de software para dispositivos móveis. Acredito que a tecnologia pode ser uma força positiva para a sociedade e sempre busco maneiras de criar produtos que possam impactar de forma significativa a vida das pessoas.
+
+No meu perfil do GitHub, você encontrará uma coleção diversificada de repositórios que refletem meu compromisso com a qualidade do código e o constante aprimoramento das minhas habilidades. Meu trabalho é caracterizado por ser bem estruturado, modular e com ênfase na legibilidade, facilitando a colaboração com outros desenvolvedores.
 
 No meu tempo livre gosto (:hearts:) de 'codar'/estudar programação (:computer:),  ouvir música (🎵), estudar/tocar (:musical_keyboard:), pedalar (:bicyclist:), academia (:muscle:), animais (:dog:), aquarismo (:tropical_fish:  :fish:)  e eventualmente gosto de filosofar sobre vida com uma cerveja (🍺).
 
